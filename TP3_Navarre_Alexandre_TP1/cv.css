@@ -1,0 +1,134 @@
+        * { margin: 0; padding: 0; }
+        body {
+                font: 25px Helvetica, Sans-Serif;
+                background-image: url(motifs.jpg) ;
+                background-size: contain;
+                color: #B7B7B7;
+                font-size: 1.5 em;
+        }
+        .clear {
+                clear: both;
+        }
+        .contact {
+                font-size: 25px ;
+        }
+
+        .général {
+                width: 800px;
+                margin: 40px auto 60px;
+        }
+        .titre {
+               color: #B7B7B7;
+                margin: 5 5 15px 0;
+                padding: 0 0 25px 0;
+                font-size: 40 px;
+                font-size: 1.5 em;
+                font-weight: bold;
+                letter-spacing: -2px;
+                border-bottom: 4px solid #999;
+
+        }
+        .soustitres {
+               text-decoration: underline;
+                font-size: 28px;
+                margin: 0 6 4px -4;
+                position: relative;
+        }
+
+        .texte {
+                margin: 0 0 16px 0;
+        }
+        .liens {
+                color:#B7B7B7;
+        }
+        .liens:hover {
+                color: #900;
+        }
+        .liste {
+                margin: 0 0 32px 17px;
+                font-size:25px;
+        }
+        .catégories1 {
+                font-style: italic;
+                font-weight: bold;
+                font-size: 27px;
+                text-align: right;
+                padding: 0 28px 0 0;
+                width: 160px;
+                float: left;
+                height: 170px;
+                border-right: 2px solid #999;
+
+        }
+         .catégories2 {
+                font-style: italic;
+                font-weight: bold;
+                font-size: 27px;
+                text-align: right;
+                padding: 0 28px 0 0;
+                width: 160px;
+                float: left;
+                height: 230px;
+                border-right: 2px solid #999;
+
+        }
+         .catégories3 {
+                font-style: italic;
+                font-weight: bold;
+                font-size: 27px;
+                text-align: right;
+                padding: 0 28px 0 0;
+                width: 160px;
+                float: left;
+                height: 325px;
+                border-right: 2px solid #999;
+
+        }
+         .catégories4 {
+                font-style: italic;
+                font-weight: bold;
+                font-size: 27px;
+                text-align: right;
+                padding: 0 28px 0 0;
+                width: 160px;
+                float: left;
+                height: 260px;
+                border-right: 2px solid #999;
+
+        }
+        .catégories5 {
+                font-style: italic;
+                font-weight: bold;
+                font-size: 27px;
+                text-align: right;
+                padding: 0 28px 0 0;
+                width: 160px;
+                float: left;
+                height: 120px;
+                border-right: 2px solid #999;
+
+        }
+        .catégorieinterets {
+                font-style: italic;
+                font-weight: bold;
+                font-size: 18px;
+                text-align: right;
+                padding: 0 26px 0 0;
+                width: 150px;
+                float: left;
+                height: 100px
+        }
+		.paragraphes{
+                width: 590px;
+                height:500 px;
+                float: right;
+        }
+        dd.clear {
+                float: none;
+                margin: 0;
+                height: 15px;
+        }
+        .info{
+        font-size: bold;
+        }
+
